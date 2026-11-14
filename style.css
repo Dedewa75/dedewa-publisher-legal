@@ -1,0 +1,8 @@
+:root{color-scheme:dark}
+body{margin:0;background:#0b0b10;color:#e8e8ef;font:16px/1.6 system-ui,Segoe UI,Arial,sans-serif}
+main{max-width:760px;margin:0 auto;padding:48px 20px}
+h1{font-size:28px;margin:0 0 8px;background:linear-gradient(90deg,#8c50ff,#4f8cff);-webkit-background-clip:text;background-clip:text;color:transparent}
+h2{font-size:19px;margin-top:32px;color:#fff}
+a{color:#a98bff}
+.muted{color:#9a9aab;font-size:14px}
+nav a{margin-right:16px}
